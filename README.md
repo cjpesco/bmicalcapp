@@ -1,5 +1,12 @@
 # bmicalcapp
 
+In this project I learned how customize a theme using copywith, made a button from scratch,
+understand how to check the documentations more.
+Enum and ternary operator, use fontawesome icons in the project,
+build components like reusablecard,icon content, customize the themedata of a slider,
+and calculate BMI. understand more how routes and navigation works between screens.
+made a lot of constants.
+
 A new Flutter project.
 
 ## Getting Started
